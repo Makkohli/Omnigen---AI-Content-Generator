@@ -21,6 +21,14 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "c:/Users/MANISH/OneDrive/Desktop/Harkirat/Projects/ai-content-generator/app/dashboard/setting/**/*.tsx",
+    "c:/Users/MANISH/OneDrive/Desktop/Harkirat/Projects/ai-content-generator/app/dashboard/settings/[[...rest]]/**/*.tsx"
+
+  ],
   "exclude": ["node_modules"]
 }
