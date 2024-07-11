@@ -1,6 +1,7 @@
 # OmniGen - AI Content Generator
 
 Welcome to OmniGen - your ultimate AI-powered content generator built with Next.js, React, Tailwind CSS, Drizzle ORM, TypeScript, Gemini API, Clerk, and Razorpay for seamless user experiences and secure transactions.
+https://drive.google.com/drive/folders/1KrtnZyMsOLnOlcEy8q0mRvY-SLcVtVXF?usp=drive_link
 
 ## Getting Started
 
